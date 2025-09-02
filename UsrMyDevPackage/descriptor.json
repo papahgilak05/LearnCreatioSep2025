@@ -1,0 +1,19 @@
+﻿{
+  "Descriptor": {
+    "UId": "5f2a4960-82fc-8f1d-970c-ae9736f1550d",
+    "Name": "UsrMyDevPackage",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1756658848000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrMyDevPackage.csproj",
+    "Description": "Demo Package for training purpose, some examples will be here",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}
